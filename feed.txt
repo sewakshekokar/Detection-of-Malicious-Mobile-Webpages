@@ -1,0 +1,10 @@
+http://malicious-example.com
+http://phishing-login.net
+http://fake-paypal-secure.com
+http://login-secure-update.com
+http://update-credentials-alert.org
+http://verify-account-phish.biz
+http://freemoneyclickhere.ru
+http://security-alert-paypal.info
+http://check-balance-here.top
+http://appleid-login-update.io
