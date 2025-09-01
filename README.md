@@ -1,5 +1,4 @@
 # Detection-of-Malicious-Mobile-Webpages
-This is my BTech Project.
 
 ### For running this project following things needs to be installed
 1. Node.js LTS [Link](https://nodejs.org/en)
